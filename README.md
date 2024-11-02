@@ -1,5 +1,8 @@
 # FDIC-Banking-Data-Pipeline
 
+## Project Name
+FDIC Banking Data Pipeline
+
 ## Description
 This project is designed to retrieve comprehensive banking data from the FDIC API, overcoming various challenges to create a consolidated panel dataset. The goal was to download data from different sections of the FDIC API and merge these datasets into a structured panel format using Stata.
 
@@ -24,5 +27,7 @@ The final output consists of nearly **10 million rows** of panel data, resulting
 
 ## Important Notes
 The project has been structured to allow for sequential execution of scripts, ensuring that data processing flows smoothly from fetching to merging. This facilitates easy updates and maintenance of the dataset as new data becomes available.
+
+For more information about the FDIC data, visit the [FDIC Data Downloads](https://www.fdic.gov/bank-data-guide/data-downloads) page.
 
 Last Updated: November 2, 2024
