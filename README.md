@@ -30,4 +30,6 @@ The project has been structured to allow for sequential execution of scripts, en
 
 For more information about the FDIC data, visit the [FDIC Data Downloads](https://www.fdic.gov/bank-data-guide/data-downloads) page.
 
+**The code is intended for personal use only and has been encrypted. If you have academic needs or wish to discuss further, feel free to reach out for collaboration and exchange of ideas.**
+
 Last Updated: November 2, 2024
